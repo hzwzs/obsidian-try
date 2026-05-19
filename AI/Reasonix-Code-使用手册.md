@@ -47,7 +47,7 @@
 
 ```bash
 cd your-project
-reasonix code
+npx reasonix code
 ```
 
 这会在当前目录启动一个 Reasonix Code 会话，工作区锁定在此目录。
@@ -350,7 +350,7 @@ F:\project\src\utils.ts   ← Windows 绝对路径
 
 ```bash
 cd ../other-project
-reasonix code
+npx reasonix code
 ```
 
 ### Q: 出现异常或工具调用失败怎么办？
